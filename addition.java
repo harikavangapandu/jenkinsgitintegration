@@ -3,8 +3,8 @@ class Addition {
   public static void main(String[] args) {
     
    
-    int first = 10;
-    int second = 20;
+    int first = 40;
+    int second = 55;
     
     System.out.println("Sum of two numbers:"+first + " " + second);
 
